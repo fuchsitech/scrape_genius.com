@@ -1,0 +1,5 @@
+Secret.py
+venv/
+*.json
+*.sqlite
+*.csv

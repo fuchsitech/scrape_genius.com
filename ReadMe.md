@@ -6,4 +6,4 @@ I do not recommend using this Script for anything except inspiration.
 There are other repositories on Github who do the same thing but a lot smarter and quicker. 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
